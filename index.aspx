@@ -35,8 +35,8 @@
               <li class="nav-item px-2"><a class="nav-link fw-bold" href="#header">CONTACT</a></li>
             </ul>
             <form class="d-flex">
-               <div class="ms-4 text-light fw-bold"><a class="nav-link fw-bold" href="login.aspx">LOGIN</a></div>
-               <div class="ms-4 text-light fw-bold" >SIGN UP</div>
+               <div ><a class="ms-4 text-light fw-bold" href="login.aspx">LOGIN</a></div>
+               <div ><a class="ms-4 text-light fw-bold" href="register.aspx">REGISTER</a></div>
             </form>
           </div>
         </div>

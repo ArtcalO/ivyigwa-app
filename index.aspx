@@ -5,7 +5,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-    <title>watch | Landing, Ecommerce &amp; Business Templatee</title>
+    <title>IVYIGWA-APP | Iga, Umenye &amp; K_Squad</title>
 
     <link rel="apple-touch-icon" sizes="180x180" href="static/assets/img/favicons/apple-touch-icon.png"/>
     <link rel="icon" type="image/png" sizes="32x32" href="static/assets/img/favicons/favicon-32x32.png"/>
@@ -70,24 +70,24 @@
                   <div class="carousel-item active">
                     <div class="row h-100">
                       <div class="col-12">
-                        <h5 class="fs-3 fs-lg-5 lh-sm text-uppercase">Our store</h5>
-                        <p class="my-4 pe-xl-5">Memphis clinched a spot in the play-in tournament with the victory, but the fight for seeding continues. The race for the No. 8 spot in the West -- and the safety net of having to win just one of two games to make the playoffs -- could come down to the regular seasons final day, when Memphis and Golden State meet. The good thing for the Grizzlies is they dont have to leave home until that matchup as they have games against Dallas and two against Sacramento before the finale.</p>
+                        <h5 class="fs-3 fs-lg-5 lh-sm text-uppercase">THE KREWZ</h5>
+                        <p class="my-4 pe-xl-5">Big ULT TEAM, Developpers, FullSatack, etc....</p>
                       </div>
                     </div>
                   </div>
                   <div class="carousel-item">
                     <div class="row h-100">
                       <div class="col-12">
-                        <h5 class="fs-3 fs-lg-5 lh-sm text-uppercase">Our store</h5>
-                        <p class="my-4 pe-xl-5">Memphis clinched a spot in the play-in tournament with the victory, but the fight for seeding continues. The race for the No. 8 spot in the West -- and the safety net of having to win just one of two games to make the playoffs -- could come down to the regular seasons final day, when Memphis and Golden State meet. The good thing for the Grizzlies is they dont have to leave home until that matchup as they have games against Dallas and two against Sacramento before the finale.</p>
+                        <h5 class="fs-3 fs-lg-5 lh-sm text-uppercase">K_Squad</h5>
+                        <p class="my-4 pe-xl-5">Join the ULT team, We are the developper squad</p>
                       </div>
                     </div>
                   </div>
                   <div class="carousel-item">
                     <div class="row h-100">
                       <div class="col-12">
-                        <h5 class="fs-3 fs-lg-5 lh-sm text-uppercase">Our store</h5>
-                        <p class="my-4 pe-xl-5">Memphis clinched a spot in the play-in tournament with the victory, but the fight for seeding continues. The race for the No. 8 spot in the West -- and the safety net of having to win just one of two games to make the playoffs -- could come down to the regular seasons final day, when Memphis and Golden State meet. The good thing for the Grizzlies is they dont have to leave home until that matchup as they have games against Dallas and two against Sacramento before the finale.</p>
+                        <h5 class="fs-3 fs-lg-5 lh-sm text-uppercase">WE THE SQUAD</h5>
+                        <p class="my-4 pe-xl-5">Developp, test,deploy your application or build them with K_squad</p>
                       </div>
                     </div>
                   </div>
@@ -101,13 +101,13 @@
         <div class="container">
           <div class="row h-100">
             <div class="col-lg-7 mt-7">
-              <h5 class="fs-3 fs-lg-5 lh-sm mb-0 text-uppercase">Collections</h5>
+              <h5 class="fs-3 fs-lg-5 lh-sm mb-0 text-uppercase">LATEST COURSES</h5>
             </div>
             <div class="col-12">
               <nav>
                 <div class="nav nav-tabs watch-tabs mb-4 justify-content-end" id="nav-tab" role="tablist">
                   <button class="nav-link active" id="nav-latest-tab" data-bs-toggle="tab" data-bs-target="#nav-latest" type="button" role="tab" aria-controls="nav-latest" aria-selected="true">LATEST </button>
-                  <button class="nav-link" id="nav-popular-tab" data-bs-toggle="tab" data-bs-target="#nav-popular" type="button" role="tab" aria-controls="nav-popular" aria-selected="false">POPULAR</button>
+                  <button class="nav-link" id="nav-popular-tab" data-bs-toggle="tab" data-bs-target="#nav-popular" type="button" role="tab" aria-controls="nav-popular" aria-selected="false">NEXT</button>
                 </div>
               </nav>
               <div class="tab-content" id="nav-tabContent">
@@ -119,108 +119,24 @@
                           <div class="col-sm-6 col-md-4 mb-3 mb-md-0">
                             <div class="card bg-black text-white p-6 pb-8"><img class="card-img" src="static/assets/img/gallery/watch-2.png" alt="..." />
                               <div class="card-img-overlay bg-dark-gradient d-flex flex-column-reverse align-items-center">
-                                <h6 class="text-primary">$650.00</h6>
-                                <h4 class="text-light">ADRIATICA ADR</h4>
+                                <h6 class="text-primary">Medium-Master</h6>
+                                <h4 class="text-light">Python Full Course</h4>
                               </div><a class="stretched-link" href="#"></a>
                             </div>
                           </div>
                           <div class="col-sm-6 col-md-4 mb-3 mb-md-0">
                             <div class="card bg-black text-white p-6 pb-8"><img class="card-img" src="static/assets/img/gallery/watch-3.png" alt="..." />
                               <div class="card-img-overlay bg-dark-gradient d-flex flex-column-reverse align-items-center">
-                                <h6 class="text-primary">$126.00</h6>
-                                <h4 class="text-light">SEIKO SNZGO7K1</h4>
+                                <h6 class="text-primary">Medium</h6>
+                                <h4 class="text-light">Django</h4>
                               </div><a class="stretched-link" href="#"></a>
                             </div>
                           </div>
                           <div class="col-sm-6 col-md-4 mb-3 mb-md-0">
                             <div class="card bg-black text-white p-6 pb-8"><img class="card-img" src="static/assets/img/gallery/watch-1.png" alt="..." />
                               <div class="card-img-overlay bg-dark-gradient d-flex flex-column-reverse align-items-center">
-                                <h6 class="text-primary">$250.00</h6>
-                                <h4 class="text-light">ROAMER RM 220837</h4>
-                              </div><a class="stretched-link" href="#"></a>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                      <div class="carousel-item" data-bs-interval="5000">
-                        <div class="row h-100 align-items-center">
-                          <div class="col-sm-6 col-md-4 mb-3 mb-md-0">
-                            <div class="card bg-black text-white p-6 pb-8"><img class="card-img" src="static/assets/img/gallery/watch-2.png" alt="..." />
-                              <div class="card-img-overlay bg-dark-gradient d-flex flex-column-reverse align-items-center">
-                                <h6 class="text-primary">$650.00</h6>
-                                <h4 class="text-light">ADRIATICA ADR</h4>
-                              </div><a class="stretched-link" href="#"></a>
-                            </div>
-                          </div>
-                          <div class="col-sm-6 col-md-4 mb-3 mb-md-0">
-                            <div class="card bg-black text-white p-6 pb-8"><img class="card-img" src="static/assets/img/gallery/watch-3.png" alt="..." />
-                              <div class="card-img-overlay bg-dark-gradient d-flex flex-column-reverse align-items-center">
-                                <h6 class="text-primary">$126.00</h6>
-                                <h4 class="text-light">SEIKO SNZGO7K1</h4>
-                              </div><a class="stretched-link" href="#"></a>
-                            </div>
-                          </div>
-                          <div class="col-sm-6 col-md-4 mb-3 mb-md-0">
-                            <div class="card bg-black text-white p-6 pb-8"><img class="card-img" src="static/assets/img/gallery/watch-1.png" alt="..." />
-                              <div class="card-img-overlay bg-dark-gradient d-flex flex-column-reverse align-items-center">
-                                <h6 class="text-primary">$250.00</h6>
-                                <h4 class="text-light">ROAMER RM 220837</h4>
-                              </div><a class="stretched-link" href="#"></a>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                      <div class="carousel-item" data-bs-interval="3000">
-                        <div class="row h-100 align-items-center">
-                          <div class="col-sm-6 col-md-4 mb-3 mb-md-0">
-                            <div class="card bg-black text-white p-6 pb-8"><img class="card-img" src="static/assets/img/gallery/watch-2.png" alt="..." />
-                              <div class="card-img-overlay bg-dark-gradient d-flex flex-column-reverse align-items-center">
-                                <h6 class="text-primary">$650.00</h6>
-                                <h4 class="text-light">ADRIATICA ADR</h4>
-                              </div><a class="stretched-link" href="#"></a>
-                            </div>
-                          </div>
-                          <div class="col-sm-6 col-md-4 mb-3 mb-md-0">
-                            <div class="card bg-black text-white p-6 pb-8"><img class="card-img" src="static/assets/img/gallery/watch-3.png" alt="..." />
-                              <div class="card-img-overlay bg-dark-gradient d-flex flex-column-reverse align-items-center">
-                                <h6 class="text-primary">$126.00</h6>
-                                <h4 class="text-light">SEIKO SNZGO7K1</h4>
-                              </div><a class="stretched-link" href="#"></a>
-                            </div>
-                          </div>
-                          <div class="col-sm-6 col-md-4 mb-3 mb-md-0">
-                            <div class="card bg-black text-white p-6 pb-8"><img class="card-img" src="static/assets/img/gallery/watch-1.png" alt="..." />
-                              <div class="card-img-overlay bg-dark-gradient d-flex flex-column-reverse align-items-center">
-                                <h6 class="text-primary">$250.00</h6>
-                                <h4 class="text-light">ROAMER RM 220837</h4>
-                              </div><a class="stretched-link" href="#"></a>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                      <div class="carousel-item">
-                        <div class="row h-100 align-items-center">
-                          <div class="col-sm-6 col-md-4 mb-3 mb-md-0">
-                            <div class="card bg-black text-white p-6 pb-8"><img class="card-img" src="static/assets/img/gallery/watch-2.png" alt="..." />
-                              <div class="card-img-overlay bg-dark-gradient d-flex flex-column-reverse align-items-center">
-                                <h6 class="text-primary">$650.00</h6>
-                                <h4 class="text-light">ADRIATICA ADR</h4>
-                              </div><a class="stretched-link" href="#"></a>
-                            </div>
-                          </div>
-                          <div class="col-sm-6 col-md-4 mb-3 mb-md-0">
-                            <div class="card bg-black text-white p-6 pb-8"><img class="card-img" src="static/assets/img/gallery/watch-3.png" alt="..." />
-                              <div class="card-img-overlay bg-dark-gradient d-flex flex-column-reverse align-items-center">
-                                <h6 class="text-primary">$126.00</h6>
-                                <h4 class="text-light">SEIKO SNZGO7K1</h4>
-                              </div><a class="stretched-link" href="#"></a>
-                            </div>
-                          </div>
-                          <div class="col-sm-6 col-md-4 mb-3 mb-md-0">
-                            <div class="card bg-black text-white p-6 pb-8"><img class="card-img" src="static/assets/img/gallery/watch-1.png" alt="..." />
-                              <div class="card-img-overlay bg-dark-gradient d-flex flex-column-reverse align-items-center">
-                                <h6 class="text-primary">$250.00</h6>
-                                <h4 class="text-light">ROAMER RM 220837</h4>
+                                <h6 class="text-primary">Beginner</h6>
+                                <h4 class="text-light">Vuejs</h4>
                               </div><a class="stretched-link" href="#"></a>
                             </div>
                           </div>
@@ -241,24 +157,24 @@
                           <div class="col-sm-6 col-md-4 mb-3 mb-md-0">
                             <div class="card bg-black text-white p-6 pb-8"><img class="card-img" src="static/assets/img/gallery/watch-2.png" alt="..." />
                               <div class="card-img-overlay bg-dark-gradient d-flex flex-column-reverse align-items-center">
-                                <h6 class="text-primary">$650.00</h6>
-                                <h4 class="text-light">ADRIATICA ADR</h4>
+                                <h6 class="text-primary">Beginner</h6>
+                                <h4 class="text-light">HTML & CSS For Full Course</h4>
                               </div><a class="stretched-link" href="#"></a>
                             </div>
                           </div>
                           <div class="col-sm-6 col-md-4 mb-3 mb-md-0">
                             <div class="card bg-black text-white p-6 pb-8"><img class="card-img" src="static/assets/img/gallery/watch-3.png" alt="..." />
                               <div class="card-img-overlay bg-dark-gradient d-flex flex-column-reverse align-items-center">
-                                <h6 class="text-primary">$126.00</h6>
-                                <h4 class="text-light">SEIKO SNZGO7K1</h4>
+                                <h6 class="text-primary">Medium</h6>
+                                <h4 class="text-light">Artificial Intelligence</h4>
                               </div><a class="stretched-link" href="#"></a>
                             </div>
                           </div>
                           <div class="col-sm-6 col-md-4 mb-3 mb-md-0">
                             <div class="card bg-black text-white p-6 pb-8"><img class="card-img" src="static/assets/img/gallery/watch-1.png" alt="..." />
                               <div class="card-img-overlay bg-dark-gradient d-flex flex-column-reverse align-items-center">
-                                <h6 class="text-primary">$250.00</h6>
-                                <h4 class="text-light">ROAMER RM 220837</h4>
+                                <h6 class="text-primary">High</h6>
+                                <h4 class="text-light">Algorithm and Data Structure</h4>
                               </div><a class="stretched-link" href="#"></a>
                             </div>
                           </div>
@@ -269,24 +185,24 @@
                           <div class="col-sm-6 col-md-4 mb-3 mb-md-0">
                             <div class="card bg-black text-white p-6 pb-8"><img class="card-img" src="static/assets/img/gallery/watch-2.png" alt="..." />
                               <div class="card-img-overlay bg-dark-gradient d-flex flex-column-reverse align-items-center">
-                                <h6 class="text-primary">$650.00</h6>
-                                <h4 class="text-light">ADRIATICA ADR</h4>
+                                <h6 class="text-primary">Medium</h6>
+                                <h4 class="text-light">Easy Python Learning</h4>
                               </div><a class="stretched-link" href="#"></a>
                             </div>
                           </div>
                           <div class="col-sm-6 col-md-4 mb-3 mb-md-0">
                             <div class="card bg-black text-white p-6 pb-8"><img class="card-img" src="static/assets/img/gallery/watch-3.png" alt="..." />
                               <div class="card-img-overlay bg-dark-gradient d-flex flex-column-reverse align-items-center">
-                                <h6 class="text-primary">$126.00</h6>
-                                <h4 class="text-light">SEIKO SNZGO7K1</h4>
+                                <h6 class="text-primary">Beginner</h6>
+                                <h4 class="text-light">The C Programming</h4>
                               </div><a class="stretched-link" href="#"></a>
                             </div>
                           </div>
                           <div class="col-sm-6 col-md-4 mb-3 mb-md-0">
                             <div class="card bg-black text-white p-6 pb-8"><img class="card-img" src="static/assets/img/gallery/watch-1.png" alt="..." />
                               <div class="card-img-overlay bg-dark-gradient d-flex flex-column-reverse align-items-center">
-                                <h6 class="text-primary">$250.00</h6>
-                                <h4 class="text-light">ROAMER RM 220837</h4>
+                                <h6 class="text-primary">Beginner</h6>
+                                <h4 class="text-light">Get Started with Batch</h4>
                               </div><a class="stretched-link" href="#"></a>
                             </div>
                           </div>
@@ -297,24 +213,24 @@
                           <div class="col-sm-6 col-md-4 mb-3 mb-md-0">
                             <div class="card bg-black text-white p-6 pb-8"><img class="card-img" src="static/assets/img/gallery/watch-2.png" alt="..." />
                               <div class="card-img-overlay bg-dark-gradient d-flex flex-column-reverse align-items-center">
-                                <h6 class="text-primary">$650.00</h6>
-                                <h4 class="text-light">ADRIATICA ADR</h4>
+                                <h6 class="text-primary">Beginner-High</h6>
+                                <h4 class="text-light">Django Rest Framework</h4>
                               </div><a class="stretched-link" href="#"></a>
                             </div>
                           </div>
                           <div class="col-sm-6 col-md-4 mb-3 mb-md-0">
                             <div class="card bg-black text-white p-6 pb-8"><img class="card-img" src="static/assets/img/gallery/watch-3.png" alt="..." />
                               <div class="card-img-overlay bg-dark-gradient d-flex flex-column-reverse align-items-center">
-                                <h6 class="text-primary">$126.00</h6>
-                                <h4 class="text-light">SEIKO SNZGO7K1</h4>
+                                <h6 class="text-primary">Medium</h6>
+                                <h4 class="text-light">Laravel for You</h4>
                               </div><a class="stretched-link" href="#"></a>
                             </div>
                           </div>
                           <div class="col-sm-6 col-md-4 mb-3 mb-md-0">
                             <div class="card bg-black text-white p-6 pb-8"><img class="card-img" src="static/assets/img/gallery/watch-1.png" alt="..." />
                               <div class="card-img-overlay bg-dark-gradient d-flex flex-column-reverse align-items-center">
-                                <h6 class="text-primary">$250.00</h6>
-                                <h4 class="text-light">ROAMER RM 220837</h4>
+                                <h6 class="text-primary">High</h6>
+                                <h4 class="text-light">Patch Softs</h4>
                               </div><a class="stretched-link" href="#"></a>
                             </div>
                           </div>
@@ -325,24 +241,24 @@
                           <div class="col-sm-6 col-md-4 mb-3 mb-md-0">
                             <div class="card bg-black text-white p-6 pb-8"><img class="card-img" src="static/assets/img/gallery/watch-2.png" alt="..." />
                               <div class="card-img-overlay bg-dark-gradient d-flex flex-column-reverse align-items-center">
-                                <h6 class="text-primary">$650.00</h6>
-                                <h4 class="text-light">ADRIATICA ADR</h4>
+                                <h6 class="text-primary">Beginner-Master</h6>
+                                <h4 class="text-light">Photoshop Full Course</h4>
                               </div><a class="stretched-link" href="#"></a>
                             </div>
                           </div>
                           <div class="col-sm-6 col-md-4 mb-3 mb-md-0">
                             <div class="card bg-black text-white p-6 pb-8"><img class="card-img" src="static/assets/img/gallery/watch-3.png" alt="..." />
                               <div class="card-img-overlay bg-dark-gradient d-flex flex-column-reverse align-items-center">
-                                <h6 class="text-primary">$126.00</h6>
-                                <h4 class="text-light">SEIKO SNZGO7K1</h4>
+                                <h6 class="text-primary">Medium-Master</h6>
+                                <h4 class="text-light">Illustrator Full Course</h4>
                               </div><a class="stretched-link" href="#"></a>
                             </div>
                           </div>
                           <div class="col-sm-6 col-md-4 mb-3 mb-md-0">
                             <div class="card bg-black text-white p-6 pb-8"><img class="card-img" src="static/assets/img/gallery/watch-1.png" alt="..." />
                               <div class="card-img-overlay bg-dark-gradient d-flex flex-column-reverse align-items-center">
-                                <h6 class="text-primary">$250.00</h6>
-                                <h4 class="text-light">ROAMER RM 220837</h4>
+                                <h6 class="text-primary">Medium</h6>
+                                <h4 class="text-light">C++</h4>
                               </div><a class="stretched-link" href="#"></a>
                             </div>
                           </div>
@@ -390,7 +306,7 @@
         <div class="container">
           <div class="row">
             <div class="col-lg-7 mx-auto text-center my-5">
-              <h5 class="fs-3 fs-lg-5 lh-sm mb-0 text-uppercase">TRENDING COURSES YOU MUST SEE</h5>
+              <h5 class="fs-3 fs-lg-5 lh-sm mb-0 text-uppercase">GET IN TOUCH WITH OUR TRAINNERS</h5>
             </div>
           </div>
           <div class="row flex-center h-100">
@@ -402,24 +318,24 @@
                       <div class="col-md-6 mb-4">
                         <div class="card h-100 shadow card-span p-3 bg-black">
                           <div class="card-body">
-                            <div class="d-flex align-items-center"><img class="img-fluid" src="static/assets/img/gallery/smith.png" width="80" alt="testimonials" />
+                            <div class="d-flex align-items-center"><img class="img-fluid" src="static/assets/img/gallery/pnjenje.png" width="200" alt="testimonials" />
                               <div class="flex-1 ms-4">
-                                <h6 class="fs-lg-1 mb-1 text-uppercase">amanda smith</h6>
+                                <h6 class="fs-lg-1 mb-1 text-uppercase">Ange Flower</h6>
                               </div>
                             </div>
-                            <p class="mb-0 mt-4 fw-light lh-lg">Nisi cumque in necessitatibus molestiae eaque excepturi ab. Laboriosam ipsam voluptatem voluptatibus labore quam nihil. Quasi occaecati quos ratione quia aut molestiae velit et.</p>
+                            <p class="mb-0 mt-4 fw-light lh-lg">INEZA ANGE FLEURISSE Is a web and senior developper , having at 3 years of experiance in web applications developpement.Now working on Wakanda, a web platform for e-market. Goes by <a href="https://github.com/angeflower">AngeFlower</a> on Github</p>
                           </div>
                         </div>
                       </div>
                       <div class="col-md-6 mb-4">
                         <div class="card h-100 shadow card-span p-3 bg-black">
                           <div class="card-body">
-                            <div class="d-flex align-items-center"><img class="img-fluid" src="static/assets/img/gallery/sandra-willims.png" width="80" alt="testimonials" />
+                            <div class="d-flex align-items-center"><img class="img-fluid" src="static/assets/img/gallery/pmarley.png" width="200" alt="testimonials" />
                               <div class="flex-1 ms-4">
-                                <h6 class="fs-lg-1 mb-1 text-uppercase">Ainara Vergara</h6>
+                                <h6 class="fs-lg-1 mb-1 text-uppercase">Marley</h6>
                               </div>
                             </div>
-                            <p class="mb-0 mt-4 fw-light lh-lg">Nisi cumque in necessitatibus molestiae eaque excepturi ab. Laboriosam ipsam voluptatem voluptatibus labore quam nihil. Quasi occaecati quos ratione quia aut molestiae velit et.</p>
+                            <p class="mb-0 mt-4 fw-light lh-lg">NGENDAKUMANA HERMES aka Togos Is a Software Enginer, having 4 years of experience in software developpement. Now working on Biblopthèque a web app(DRF & VUE JS). Goes by <a href="https://github.com/marley97">Marley97</a> on Github </p>
                           </div>
                         </div>
                       </div>
@@ -430,24 +346,24 @@
                       <div class="col-md-6 mb-4">
                         <div class="card h-100 shadow card-span p-3 bg-black">
                           <div class="card-body">
-                            <div class="d-flex align-items-center"><img class="img-fluid" src="static/assets/img/gallery/smith.png" width="80" alt="testimonials" />
+                            <div class="d-flex align-items-center"><img class="img-fluid" src="static/assets/img/gallery/plebon.png" width="200" alt="testimonials" />
                               <div class="flex-1 ms-4">
-                                <h6 class="fs-lg-1 mb-1 text-uppercase">Niek Bove</h6>
+                                <h6 class="fs-lg-1 mb-1 text-uppercase">LeBon</h6>
                               </div>
                             </div>
-                            <p class="mb-0 mt-4 fw-light lh-lg">Nisi cumque in necessitatibus molestiae eaque excepturi ab. Laboriosam ipsam voluptatem voluptatibus labore quam nihil. Quasi occaecati quos ratione quia aut molestiae velit et.</p>
+                            <p class="mb-0 mt-4 fw-light lh-lg">NDABASHINZE SHWAIB Is a web developper and a web designer working directly with css and some others js framework for front-end developper. Now working on e-commerce. Goes by <a href="https://github.com/shwaiblebon">ShwaibLeBon</a> on Github</p>
                           </div>
                         </div>
                       </div>
                       <div class="col-md-6 mb-4">
                         <div class="card h-100 shadow card-span p-3 bg-black">
                           <div class="card-body">
-                            <div class="d-flex align-items-center"><img class="img-fluid" src="static/assets/img/gallery/sandra-willims.png" width="80" alt="testimonials" />
+                            <div class="d-flex align-items-center"><img class="img-fluid" src="static/assets/img/gallery/piko.png" width="200" alt="testimonials" />
                               <div class="flex-1 ms-4">
-                                <h6 class="fs-lg-1 mb-1 text-uppercase">Ainara Vergara</h6>
+                                <h6 class="fs-lg-1 mb-1 text-uppercase">Hervé Iko</h6>
                               </div>
                             </div>
-                            <p class="mb-0 mt-4 fw-light lh-lg">Nisi cumque in necessitatibus molestiae eaque excepturi ab. Laboriosam ipsam voluptatem voluptatibus labore quam nihil. Quasi occaecati quos ratione quia aut molestiae velit et.</p>
+                            <p class="mb-0 mt-4 fw-light lh-lg">IRAKOZE HERVE Fullstack developper, his is on his biggest project called Ijambo, for improving e-music in Burundi, he has 4 Years of experience in IT World, speak DartFlutter.Goes by <a href="https://github.com/herve2iko">Herve2Iko</a> on Github</p>
                           </div>
                         </div>
                       </div>
@@ -458,24 +374,24 @@
                       <div class="col-md-6 mb-4">
                         <div class="card h-100 shadow card-span p-3 bg-black">
                           <div class="card-body">
-                            <div class="d-flex align-items-center"><img class="img-fluid" src="static/assets/img/gallery/smith.png" width="80" alt="testimonials" />
+                            <div class="d-flex align-items-center"><img class="img-fluid" src="static/assets/img/gallery/ptutu.png" width="200" alt="testimonials" />
                               <div class="flex-1 ms-4">
-                                <h6 class="fs-lg-1 mb-1 text-uppercase">amanda smith</h6>
+                                <h6 class="fs-lg-1 mb-1 text-uppercase">Tutu Bunso</h6>
                               </div>
                             </div>
-                            <p class="mb-0 mt-4 fw-light lh-lg">Nisi cumque in necessitatibus molestiae eaque excepturi ab. Laboriosam ipsam voluptatem voluptatibus labore quam nihil. Quasi occaecati quos ratione quia aut molestiae velit et.</p>
+                            <p class="mb-0 mt-4 fw-light lh-lg">BUTUNGANE GUY AYMARD Software enginer has 3 years of Experience on web technologies such as Vuejs, JS, etc... Working on different projects now. Funny fact he is a good DJ. Goes by <a href="https://github.com/tutubunso">Tutubunso</a> on Github</p>
                           </div>
                         </div>
                       </div>
                       <div class="col-md-6 mb-4">
                         <div class="card h-100 shadow card-span p-3 bg-black">
                           <div class="card-body">
-                            <div class="d-flex align-items-center"><img class="img-fluid" src="static/assets/img/gallery/sandra-willims.png" width="80" alt="testimonials" />
+                            <div class="d-flex align-items-center"><img class="img-fluid" src="static/assets/img/gallery/partcalo.png" width="200" alt="testimonials" />
                               <div class="flex-1 ms-4">
-                                <h6 class="fs-lg-1 mb-1 text-uppercase">Ainara Vergara</h6>
+                                <h6 class="fs-lg-1 mb-1 text-uppercase">ArtcalO</h6>
                               </div>
                             </div>
-                            <p class="mb-0 mt-4 fw-light lh-lg">Nisi cumque in necessitatibus molestiae eaque excepturi ab. Laboriosam ipsam voluptatem voluptatibus labore quam nihil. Quasi occaecati quos ratione quia aut molestiae velit et.</p>
+                            <p class="mb-0 mt-4 fw-light lh-lg">NIYUNGEKO CARMEL Has 3 Years of experienc on web technologies, desktop tech etc..., basketball player as hobbies, goes by <a href="https://github.com/ArtcalO">ArtcalO</a> on Github</p>
                           </div>
                         </div>
                       </div>
@@ -510,28 +426,8 @@
 
         <div class="container">
           <div class="row">
-            <div class="col-6 col-sm-4 col-xl-3 mb-3">
-              <h4 class="lh-lg fw-bold text-light">WATCH</h4>
-            </div>
-            <div class="col-6 col-sm-4 col-xl-3 mb-3">
-              <h5 class="lh-lg fw-bold text-light">MENU</h5>
-              <ul class="list-unstyled mb-md-4 mb-lg-0">
-                <li class="lh-lg"><a class="text-800 text-decoration-none text-uppercase fw-bold" href="#!">Shipping Info</a></li>
-                <li class="lh-lg"><a class="text-800 text-decoration-none text-uppercase fw-bold" href="#!">Refunds</a></li>
-                <li class="lh-lg"><a class="text-800 text-decoration-none text-uppercase fw-bold" href="#!">How to Order</a></li>
-                <li class="lh-lg"><a class="text-800 text-decoration-none text-uppercase fw-bold" href="#!">How to Track</a></li>
-                <li class="lh-lg"><a class="text-800 text-decoration-none text-uppercase fw-bold" href="#!">Size Guides</a></li>
-              </ul>
-            </div>
-            <div class="col-6 col-sm-4 col-xl-3 mb-3">
-              <h5 class="mb-5"></h5>
-              <ul class="list-unstyled mb-md-4 mb-lg-0">
-                <li class="lh-lg"><a class="text-800 text-decoration-none text-uppercase fw-bold" href="#!">Contact Us</a></li>
-                <li class="lh-lg"><a class="text-800 text-decoration-none text-uppercase fw-bold" href="#!">my account</a></li>
-              </ul>
-            </div>
             <div class="col-12 col-xl-3">
-              <h5 class="lh-lg fw-bold text-light text-uppercase">Signup For our Latest News</h5>
+              <h5 class="lh-lg fw-bold text-light text-uppercase">Question? Get in touch with us </h5>
               <div class="row input-group-icon mb-5">
                 <div class="col-12">
                   <form class="row row-cols-lg-auto g-0 align-items-center">
@@ -552,10 +448,7 @@
           <div class="border-bottom border-700"></div>
           <div class="row flex-center my-3">
             <div class="col-md-6 order-1 order-md-0">
-              <p class="my-2 text-800 text-center text-md-start"> Made with&nbsp;
-                <svg class="bi bi-suit-heart-fill" xmlns="http://www.w3.org/2000/svg" width="15" height="15" fill="#EB6453" viewBox="0 0 16 16">
-                  <path d="M4 1c2.21 0 4 1.755 4 3.92C8 2.755 9.79 1 12 1s4 1.755 4 3.92c0 3.263-3.234 4.414-7.608 9.608a.513.513 0 0 1-.784 0C3.234 9.334 0 8.183 0 4.92 0 2.755 1.79 1 4 1z"></path>
-                </svg>&nbsp;by&nbsp;<a class="text-500" href="https://themewagon.com/" target="_blank">ThemeWagon </a>
+              <p class="my-2 text-800 text-center text-md-start"> COPYRIGHT&nbsp; TheKrewZ 2021 K_Squad
               </p>
             </div>
             <div class="col-md-6">

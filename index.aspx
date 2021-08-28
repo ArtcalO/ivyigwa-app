@@ -29,9 +29,9 @@
           <button class="navbar-toggler collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
           <div class="collapse navbar-collapse border-top border-lg-0 mt-4 mt-lg-0" id="navbarSupportedContent">
             <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-              <li class="nav-item px-2"><a class="nav-link fw-bold active" aria-current="page" href="#collections">HOME</a></li>
-              <li class="nav-item px-2"><a class="nav-link fw-bold" href="#store">COURSES</a></li>
-              <li class="nav-item px-2"><a class="nav-link fw-bold" href="#contact">MY COURSES</a></li>
+              <li class="nav-item px-2"><a class="nav-link fw-bold active" aria-current="page" href="index.aspx">HOME</a></li>
+              <li class="nav-item px-2"><a class="nav-link fw-bold" href="courses.aspx">COURSES</a></li>
+              <li class="nav-item px-2"><a class="nav-link fw-bold" href="my_courses.aspx">MY COURSES</a></li>
               <li class="nav-item px-2"><a class="nav-link fw-bold" href="#header">CONTACT</a></li>
             </ul>
             <form class="d-flex">
